@@ -11,7 +11,10 @@ dependencies = [
     "langchain (>=0.3.25,<0.4.0)",
     "langchain-ollama (>=0.3.3,<0.4.0)",
     "langchain-chroma (>=0.2.4,<0.3.0)",
-    "pandas (>=2.2.3,<3.0.0)"
+    "pandas (>=2.2.3,<3.0.0)",
+    "speechrecognition (>=3.14.3,<4.0.0)",
+    "gtts (>=2.5.4,<3.0.0)",
+    "pyaudio (>=0.2.14,<0.3.0)"
 ]
 
 

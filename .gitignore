@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 chroma_langhchain_db/
 *.lock
+response.mp3
